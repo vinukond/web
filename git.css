@@ -1,0 +1,28 @@
+.form-control{
+    width: 400px;
+}
+
+#SEX{
+    width: 100px;
+}
+.btn{
+    color: black;
+    background-color: white;
+}
+
+.btn:hover{
+    color: blue;
+    background-color: gold;
+}
+
+#main{
+    border-radius: 20px;
+    border: 2px solid #73AD21;
+   padding: 20px;
+
+}
+
+img{
+    width: 200;
+}
+
